@@ -5,6 +5,8 @@ repo: status # The name of this repository
 sites:
   - name: Homepage
     url: https://nntin.xyz
+  - name: me page
+    url: https://nntin.xyz/me
   - name: d-zone
     url: https://nntin.xyz/d-zone
   - name: hermes
