@@ -17,8 +17,15 @@ sites:
     url: https://ws.nntin.xyz/
   - name: lanyard
     url: https://api.lanyard.rest/
-  - name: badge availability
+  - name: output badge
     url: https://raw.githubusercontent.com/nntin/me/output/badges/me_first.svg
+  - name: output repoinfo
+    url: https://raw.githubusercontent.com/nntin/me/output/badges/repoInfos.json
+  - name: output workflow usage
+    url: https://raw.githubusercontent.com/nntin/me/output/badges/workflow-usage.csv
+  - name: voidpet
+    url: https://nntin.xyz/voidpet/tierlist
+    
 
     
 status-website:
