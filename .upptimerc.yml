@@ -20,9 +20,9 @@ sites:
   - name: output badge
     url: https://raw.githubusercontent.com/nntin/me/output/badges/me_first.svg
   - name: output repoinfo
-    url: https://raw.githubusercontent.com/nntin/me/output/badges/repoInfos.json
+    url: https://raw.githubusercontent.com/nntin/me/output/repoInfos.json
   - name: output workflow usage
-    url: https://raw.githubusercontent.com/nntin/me/output/badges/workflow-usage.csv
+    url: https://raw.githubusercontent.com/nntin/me/output/workflow-usage.csv
   - name: voidpet
     url: https://nntin.xyz/voidpet/tierlist
     
