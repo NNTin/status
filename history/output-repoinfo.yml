@@ -1,7 +1,7 @@
-url: https://raw.githubusercontent.com/nntin/me/output/badges/repoInfos.json
-status: down
-code: 404
-responseTime: 127
-lastUpdated: 2025-12-03T16:58:19.999Z
+url: https://raw.githubusercontent.com/nntin/me/output/repoInfos.json
+status: up
+code: 200
+responseTime: 42
+lastUpdated: 2025-12-03T20:05:18.817Z
 startTime: 2025-12-03T16:58:19.849Z
 generator: Upptime <https://github.com/upptime/upptime>
