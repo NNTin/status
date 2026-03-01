@@ -1,7 +1,7 @@
 url: https://api.lanyard.rest/
-status: down
-code: 429
-responseTime: 107
-lastUpdated: 2026-03-01T20:27:32.479Z
+status: up
+code: 200
+responseTime: 308
+lastUpdated: 2026-03-01T20:43:24.496Z
 startTime: 2025-11-18T12:50:32.171Z
 generator: Upptime <https://github.com/upptime/upptime>
