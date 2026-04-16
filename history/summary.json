@@ -100,9 +100,9 @@
     "url": "https://ws.nntin.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/ws.nntin.xyz.ico",
     "slug": "robokellner",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,7 +111,9 @@
     "timeWeek": 475,
     "timeMonth": 486,
     "timeYear": 531,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-16": 0
+    }
   },
   {
     "name": "lanyard",
@@ -202,11 +204,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nntin.xyz.ico",
     "slug": "voidpet",
     "status": "down",
-    "uptime": "95.03%",
+    "uptime": "95.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.03%",
+    "uptimeYear": "95.06%",
     "time": 83,
     "timeDay": 36,
     "timeWeek": 57,
