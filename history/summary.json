@@ -100,19 +100,19 @@
     "url": "https://ws.nntin.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/ws.nntin.xyz.ico",
     "slug": "robokellner",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 531,
-    "timeDay": 369,
-    "timeWeek": 475,
-    "timeMonth": 486,
-    "timeYear": 531,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 530,
+    "timeDay": 391,
+    "timeWeek": 467,
+    "timeMonth": 484,
+    "timeYear": 530,
     "dailyMinutesDown": {
-      "2026-04-16": 0
+      "2026-04-16": 22
     }
   },
   {
