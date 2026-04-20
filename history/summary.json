@@ -145,19 +145,19 @@
     "url": "https://raw.githubusercontent.com/nntin/me/output/badges/me_first.svg",
     "icon": "https://icons.duckduckgo.com/ip3/raw.githubusercontent.com.ico",
     "slug": "output-badge",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 106,
-    "timeDay": 87,
-    "timeWeek": 117,
-    "timeMonth": 112,
-    "timeYear": 106,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "95.27%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.97%",
+    "time": 107,
+    "timeDay": 135,
+    "timeWeek": 129,
+    "timeMonth": 116,
+    "timeYear": 107,
     "dailyMinutesDown": {
-      "2026-04-20": 0
+      "2026-04-20": 68
     }
   },
   {
